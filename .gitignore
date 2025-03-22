@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Test results and reports
+test-results/
+playwright-report/
+
+# Local browsers
+local-browsers/
+
+# Debug and trace files
+trace.zip
+*.har
+
+# Authentication cache
+playwright/.auth/
+
+# System files
+.DS_Store
+*.swp
+
+# IDE files
+.vscode/
