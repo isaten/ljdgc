@@ -4,7 +4,7 @@
         "lunch": 7,
         "dinner": 4,
         "total": 14,
-        "privateRoom": 2,
+        "privateRoom": 10,
         "camping": 6,
         "lodging": 12,
         "fees": 5
@@ -14,7 +14,7 @@
         "lunch": 8,
         "dinner": 5,
         "total": 16,
-        "ownRoom": 2,
+        "privateRoom": 10,
         "camping": 7,
         "lodging": 14,
         "fees": 5
@@ -24,7 +24,7 @@
         "lunch": 9,
         "dinner": 6,
         "total": 19,
-        "ownRoom": 3,
+        "privateRoom": 10,
         "camping": 8,
         "lodging": 18,
         "fees": 6
@@ -34,7 +34,7 @@
         "lunch": 10,
         "dinner": 7,
         "total": 21,
-        "ownRoom": 3,
+        "privateRoom": 10,
         "camping": 9,
         "lodging": 19,
         "fees": 7
@@ -44,7 +44,7 @@
         "lunch": 11,
         "dinner": 7,
         "total": 23,
-        "ownRoom": 3,
+        "privateRoom": 10,
         "camping": 10,
         "lodging": 20,
         "fees": 7

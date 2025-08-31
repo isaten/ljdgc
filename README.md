@@ -17,4 +17,3 @@
 - Click on "Execute Playwright Test" towards the top of the file
 - Alternatively, you can just type the following in the terminal:
   - $ npx playwright test ljdgc.spec.ts:8
-  

@@ -11,6 +11,7 @@ local-browsers/
 # Debug and trace files
 trace.zip
 *.har
+wordpress.spec.ts
 
 # Authentication cache
 playwright/.auth/
